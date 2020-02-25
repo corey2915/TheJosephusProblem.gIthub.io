@@ -1,1 +1,1 @@
-# TheJosephusProblem.gIthub.io
+# TheJosephusProblem.github.io
